@@ -7,7 +7,11 @@ This script specifically focuses on the effect of Elon Musk's Twitter activity o
 
 ## Data
 
-The stock data was obtained using Bloomberg Terminal. There is a csv file in the data folder that contains Tesla's stock data from the last 10 years.
+The stock data was obtained using Bloomberg Terminal. There is a csv file (must be unzipped) in the data folder that contains Tesla's stock data from the last 10 years.
 
 The Twitter data was obtained using Twitter's Premium Developer API. I have provided a script which writes the data from the Twitter API to a csv file. You need to provide your own credentials in the twitter_keys.yaml file. 
+
+## Run
+
+Run all the cells of the jupyter notebook. This will result in many graphs being produced. The key graphs are presented below:
 
