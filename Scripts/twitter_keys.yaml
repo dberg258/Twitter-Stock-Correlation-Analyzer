@@ -1,0 +1,5 @@
+twitter_keys:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/sadFcg.json
+  consumer_key: <Insert consumer key>
+  consumer_secret: <Insert consumer secret>
