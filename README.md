@@ -15,3 +15,7 @@ The Twitter data was obtained using Twitter's Premium Developer API. I have prov
 
 Run all the cells of the jupyter notebook. This will result in many graphs being produced. The key graphs are presented below:
 
+![](./Images/graph%201.png)
+![](./Images/graph%202.png)
+![](./Images/graph%203.png)
+![](./Images/graph%204.png)
