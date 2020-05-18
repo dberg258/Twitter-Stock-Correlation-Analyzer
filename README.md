@@ -15,7 +15,7 @@ The Twitter data was obtained using Twitter's Premium Developer API. I have prov
 
 Run all the cells of the jupyter notebook. This will result in many graphs. Some key graphs are presented below.
 
-### Graphs
+## Graphs
 The following graphs indicate the effect of Elon Musk's Tweets on the stock price. The X-axis represents the tweets during each week of a year. The Y-axis indicates the change in the average price movement of the stock (per minute) from the 30 minutes before a tweet compared to the 30 minutes after a tweet.
 
 This graph considers all of Elon Musk's tweets:
@@ -27,3 +27,15 @@ This graph only uses tweets that meet a certain like/retweet threshold (i.e. 100
 
 This graph shows how Elon Musk tweets more and more each year:
 ![](./Images/graph%201.png)
+
+## Impactful Tweets
+
+The analyzer deemed these 3 tweets as the most impactful on the stock. All 3 represent important Tesla announcements and therefore make sense logically. 
+
+![](./Scripts/1.png)
+![](./Scripts/2.png)
+![](./Scripts/3.png)
+
+## Conclusion
+
+Although a large marjority of Elon Musk's tweets do not have an impact on the Tesla stock price, there are a few which definitely do. After analyzing the tweets which had a clear impact, it became obvious that Elon Musk uses his Twitter account in an unorthodox manner. Many major Tesla annoucements are communicated via his twitter account, rather than through offical company statements.  
