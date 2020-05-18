@@ -13,9 +13,17 @@ The Twitter data was obtained using Twitter's Premium Developer API. I have prov
 
 ## Run
 
-Run all the cells of the jupyter notebook. This will result in many graphs being produced. The key graphs are presented below:
+Run all the cells of the jupyter notebook. This will result in many graphs. Some key graphs are presented below.
 
-![](./Images/graph%201.png)
+### Graphs
+The following graphs indicate the effect of Elon Musk's Tweets on the stock price. The X-axis represents the tweets during each week of a year. The Y-axis indicates the change in the average price movement of the stock (per minute) from the 30 minutes before a tweet compared to the 30 minutes after a tweet.
+
+This graph considers all of Elon Musk's tweets:
 ![](./Images/graph%202.png)
+This graph groups the tweets based on type:
 ![](./Images/graph%203.png)
+This graph only uses tweets that meet a certain like/retweet threshold (i.e. 100 likes and 30 retweets minimum)
 ![](./Images/graph%204.png)
+
+This graph shows how Elon Musk tweets more and more each year:
+![](./Images/graph%201.png)
